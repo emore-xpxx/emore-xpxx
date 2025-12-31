@@ -1,12 +1,14 @@
-## Hello!
-- 🔭 I love `Android` development.
-- 🍀 **I use** `void` **btw!**
+## hello!
+- 🔭 i love `Android` development.
+- 🍀 **i use** `void` **btw!**
+- 🇷🇺 i live in russia, tyumen
 
-### 🛠 Tech stack
+### languages
+- 🇷🇺 russian (**native**)
+- 🇬🇧 english (i **dont** think my level is even **b1** lol ;>)
 
-- **HTML** <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="20" />
-- **Markdown** <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg" height="20" />
-- **SCSS** <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" height="20" />
-- **JavaScript (Vanilla)** <img src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" height="20" />
-- **Python** <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/Python_logo_and_wordmark.svg" height="20" />
-- **Rust (basics)** <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg" height="20" />
+### get in touch..
+- `~>` [github](https://github.com/emore-xpxx)
+- `~>` [huh?](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+\>w<
